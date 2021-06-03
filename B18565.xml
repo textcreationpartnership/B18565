@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Colonel John Lambert, prisoner in the Tower of London</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18565</idno><idno type="EEBO-CITATION">11182916</idno>
+  <idno type="VID">204853</idno>
+  <idno type="EEBO-PROQUEST">2248496217</idno>
+  
+            <idno type="STC">Wing C894</idno>
+            <idno type="OCLC">11182916</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Colonel John Lambert, prisoner in the Tower of London</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.S. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lambert, John, 1619-1683.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204853:1"/>
+            <pb facs="tcp:204853:1"/>
+            <p>THE CASE Of Colonel John Lambert, Prisoner in the TOWER Of <hi>LONDON.</hi>
+            </p>
+            <p>LONDON, Printed for S. S. in St. <hi>Pauls</hi> Church-yard, in the Year 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:204853:2"/>
+            <pb n="1" facs="tcp:204853:2"/>
+            <head>THE CASE OF Colonel John Lambert, Prisoner in the TOWER of LONDON.</head>
+            <p>FRom the level of that ambitious prospect, which presented <hi>Castles, Palaces, Thrones,</hi> built by a glorious imagination in the fixed Element of the Earth; View and behold the realities of those abase<g ref="char:EOLhyphen"/>ments and miseries, which have in lieu of trains and re<g ref="char:EOLhyphen"/>tinue, attended this unfortunate person, (yet in a Princely Mansion) the <hi>Tower</hi> of <hi>London.</hi>
+            </p>
+            <p>Behold and consider the vast and unlimited designes of a more unbounded mind, pen'd up, and confined with his body within a narrow compasse, and scantling of place, where the Plot of <hi>Aspiring,</hi> hath worried it self
+<pb n="2" facs="tcp:204853:3"/>to the quiet desire of <hi>Respiring.</hi>
+            </p>
+            <p>Consider him yet further, ruminating and harshly di<g ref="char:EOLhyphen"/>gesting those crude and raw morsels of an intended U<g ref="char:EOLhyphen"/>surpation; the disgusts whereof, in the greatest freedom of Air, the meanest fugitives of his party (enjoy not but) breath in, would surfet and kill any one but <hi>Luci<g ref="char:EOLhyphen"/>fer.</hi>
+            </p>
+            <p>Reckon lastly, the throws of his disappointment, his ambition brought to the birth, and then wanting strength to bring forth; all his honour and greatnesse laid in the dirt, and himself stuck fast in the mire; and then you cannot but favourably reflect on these stately Ruines.</p>
+            <p>In the tracing of which, it will be requisite to deduce them from their fair originals, the account whereof, take in brief. His Ancestry were of a very antient, and as noble extraction, inhabiting for some ages past, part of the <hi>East-Riding</hi> of <hi>Yorkshire,</hi> having there valuable Possessions, and a Mannor place, called <hi>Craven,</hi> where he last projected his grand Enterprize, (after the <hi>Che<g ref="char:EOLhyphen"/>shire</hi> businesse) of raising himself upon the ruines of that wretched Commonwealth. Thither (as he suppo<g ref="char:EOLhyphen"/>sed) he resorted, for the more auspicious commence<g ref="char:EOLhyphen"/>ment and laying of his design, out of a superstition to the Genij and Penates of that native place of his Fami<g ref="char:EOLhyphen"/>ly, the better to succeed in his new intended greatnesse, and advancement of his House; A Custom observed very religiously by the noble Romans, and performed by them with sacrifices and adoration.</p>
+            <p>His immediate Ancestor (his Father,) was a Gen<g ref="char:EOLhyphen"/>tleman very well beloved in this Country, much respect<g ref="char:EOLhyphen"/>ed by one of the honourablest Families in that part of <hi>England;</hi> in which noble acquaintance, this Colonel had the honour to be concerned, and to say the truth, did in the unhappy time of our troubles, discharge all
+<pb n="3" facs="tcp:204853:3"/>these obligations which had been accumulated on his Family, by a powerful timely intervening, and pre<g ref="char:EOLhyphen"/>venting the late, and consequently the present ruine of their Estate.</p>
+            <p>He took Armes at first under my Lord <hi>Fairfax,</hi> in<g ref="char:EOLhyphen"/>duced by the same specious pretences which deluded half the Kingdom; But the War growing to be a Trade, and he preferred to several Commands, that deceit, by the lies long told, was Alchymisted into a perswasion of Truth, which confirmed by Money and Advancement, never after would admit any Doubts or Disputes within him. Neverthelesse through all the War be behaved himself as a generous Enemy, nor was there any Treachery or basenesse ever laid to his charge.</p>
+            <p>In that monstrous Conspiracy against the Life of our Late Soveraign, he would not be engaged privately, nor did he act any thing publickly in that matter, further than as an Officer of the Army, in their Councils of War; and that businesse was to be transacted by ano<g ref="char:EOLhyphen"/>ther kind of power, which he wisely and prudentially avoided, and perhaps innocently.</p>
+            <p>He was never a spiteful malicious Foe to the Cavalier Party, declining all Employments and Commands which required asperity and harshnesse towards them; but doing them (as far as was Convenient and Consist<g ref="char:EOLhyphen"/>ent for an Enemy) all the Courtesies and Kindnesses that lay in his way. Some affirm that this was out of a<g ref="char:EOLunhyphen"/>fore-casted Design of Cajoling them: On the contrary, others affirm that he was more Sincere and Noble.</p>
+            <p>This is most certain, that being made Governour of <hi>Oxford,</hi> after the Surrender in 1646. where after six Months, the Parliament were left to their will, in the ordering both of University and City. He personally acted nothing there, as foreknowing what an ungrateful
+<pb n="4" facs="tcp:204853:4"/>and barbarous work he should be put upon, but remit<g ref="char:EOLhyphen"/>ted it to his Deputy, not being so hardy himself as to venture upon the sharp points of the Scholars Pens, and beget himself a perpetual Hatred and Infamy: Though out of all question he was then, and is yet a lover of Arts and Learning, and might, and probably did for<g ref="char:EOLhyphen"/>bear that Province more out of Reverence to them, than through any Policy.</p>
+            <p>To his Civility adde his Courage, which was Super<g ref="char:EOLhyphen"/>latively eminent in him. These two Vertues seldome meet in Conjunction, but their Influences are very be<g ref="char:EOLhyphen"/>nign, and portend much good; but they were in him it seems moved by a Superiour Orb; His Ambition like other sphears a contrary way, The Moralists therefore say, That that is not properly Courage, by which bold men Invade and Usurp, that being a Vertue, and Con<g ref="char:EOLhyphen"/>versant only either in vindictive Armes, when Injuries and Hostilities are revenged by War: Or in assisting an Auxiliary, to succour and defend the oppress'd. But setting aside the Philosophical niceties, for Valour and presentnesse of mind, no man during the War out-went him, witnesse <hi>Naseby, Marston</hi> Moor, <hi>Preston,</hi> par<g ref="char:EOLhyphen"/>ticularly <hi>Dunbar,</hi> where the Honour of that Day (if any there were, or could be in such a War against their Prince) may be equally shared betwixt him and the most Noble <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> For <hi>Cromwel</hi> was more a Spectator, and Director, than Actor in that fatal Field.</p>
+            <p>Leave we the Army, and their Elogies, and high Commendations for him, for the civilest bravest Cap<g ref="char:EOLhyphen"/>tain that ever Commanded amongst them; And view him next as a States-man, called and cull'd out to assist <hi>Oliver</hi> in that dangerous Attempt of altering the Go<g ref="char:EOLhyphen"/>vernment from a Common-wealth, to a single Ty<g ref="char:EOLhyphen"/>ranny.</p>
+            <p>And in this particular he may well be said to have ob<g ref="char:EOLhyphen"/>liged
+<pb n="5" facs="tcp:204853:4"/>his Cavalier Enemies, for a more grateful favour, and better resented by that Party, ever in or after the War, was not, nor could be done them. 'Twas the first step, through unseen by themselves, that led to that general ruine we saw involved them altogether. This <hi>Cromwel</hi> durst never upon his single Reputation in the Army have ventured upon, and therefore this Major General became his Adjutant General by his great In<g ref="char:EOLhyphen"/>terest in the Army.</p>
+            <p>Having done this acceptable service to the Kingdom, the necessitudes which had conciled that Intimacy and Friendship betwixt <hi>Cromwel</hi> and him being removed, and the Col. growing every day more popular in the Army and Kingdom, it was high time for the aspiring Protector, to quit all those private Engagements and Conditions that had past between them; Upon the first overture thereof, the Col. roundly and freely taxed him with breach of promise, insisting upon publick good chiefly, but yet insinuating, but that discoverately e<g ref="char:EOLhyphen"/>nough the loosenesse of his Faith towards himself.</p>
+            <p>This gave an open occasion of dismissing him first from his Company and Converse, and soon after from his Council and Command in the Army, to cisable him totally from attempting any Considerable thing a<g ref="char:EOLhyphen"/>gainst him. This highly incensed the over-reach'd Col. but help himself he could not; To thwart <hi>Cromwel</hi> in his Usurpation, lay things in his way to his greatness<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, was the most he could effect; and therefore to that he applyed himself with all earnestnesse and Industry. Thus he made apparent to <hi>Cromwel</hi> in the first Parliament he called, where he and his Party flickled so against the Instrument of Government (the Finical Model of the Protectorship) that <hi>Oliver</hi> mist of his aim of settling himself in his new Usurpation by the Authority of that Parliament. And indeed no man knows where the
+<pb n="6" facs="tcp:204853:5"/>Extravagancies of that wird Tyranny would have termi<g ref="char:EOLhyphen"/>nated, had not the fear of <hi>Lamberts</hi> Potency in the Army, the strength on which they both relyed, kept him in some Decorum; So that now the Col. was cryed up for a Patriot, and esteemed a very honest man, and certainly such an Enter osi ion as this, could not merit lesse than that Character for him.</p>
+            <p>This was a Thorn on one side to the Protectors En<g ref="char:EOLhyphen"/>trusions: Soon after he goaded him on the other. <hi>Oliver</hi> would as certainly have been King, had the dan<g ref="char:EOLhyphen"/>ger from <hi>Lambert</hi> not been too evidently ap<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arent, up<g ref="char:EOLhyphen"/>on his acc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptation of that Title, as sure as he is now a Prisoner, And what an immortal shame had it been to this Nation, if the Majesty Imperial of <hi>England,</hi> had been rested in such an Impious and base Fellow, or his pittyful Race after him. Doubtlesse it was an Extraordinary Indulgence of Heaven, to save us from that scandalous Ignominy. And though the Polititi<g ref="char:EOLhyphen"/>ans of the Times, Divined and Consulted, that as the most ready and powerful expedient way to his ruine, yet we see it was not so in Gods Eye, who by keeping up this person Esteem, prevented that Contumely, and chose a better way to our Restitution and Settle<g ref="char:EOLhyphen"/>ment, wherein also he made this man in one sence, the principal and chief Instrument.</p>
+            <p>For with what a dismal look did the Face of Things appear, when the Hunger-starved Rumpers, seven<g ref="char:EOLhyphen"/>fold more Devils in ill qualities than before, re<g ref="char:EOLhyphen"/>possesse themselves of their Seats in Parliament? Who can without affrightment think of that 7th. Day of <hi>May,</hi> when they resumed their power? This black storm did this person drive from us, and dispended those Clouds which impended over us. This is he whose Interest and Faction so divided the Army, that all Endeavours of uniting them came to nothing.
+<pb n="7" facs="tcp:204853:5"/>This is he, who by erecting an Arbitrary Com<g ref="char:EOLhyphen"/>mittee of Safety, a name so much a S ringer to the people of <hi>England,</hi> both to its Name, and their Condition, that it awakened the most Indifferent, nay very Enemies of our Ancient Government, to bethink themselves how they might shake off this Yoak, and return to Obedience, and the protection of the Laws. This is be, who by marching so far Northward, gave opportunity to the King and Kingdoms Friends to lay the Foun<g ref="char:EOLhyphen"/>dation of that Settlement, which was soon after<g ref="char:EOLhyphen"/>wards so gloriously accomplish'd. In a word, this is he, without whose unjust Ambition, we pro<g ref="char:EOLhyphen"/>bably, could never have obtained our just De<g ref="char:EOLhyphen"/>sires.</p>
+            <p>Necessary Evils were never yet abhorred, nay some we commonly term, so are much our De<g ref="char:EOLhyphen"/>light and Contentment. The World cannot be, nor consist without them, no more than the Sea would keep sweet and not putrifie, if boisterous Winds did not violently move it.</p>
+            <p>Men have their Fates and Inclinations born with them, and 'twas this unfortunate Persons Destiny, to be designed for a trouble World, whom yet Providence not only restrained from doing harm, but all along brought forth a <hi>Soveraign</hi> good from his worst Actions and Intentions; And now since there is no use of him, let us not cast him away, but lay him aside.</p>
+            <p>It may also be considered, that he hath had no deep hand in the blood of any, but what was spilt in the Field; remembring also how civilly he treated and used the <hi>Cheshire</hi> men, after their defeat, so bidding either to kill or plunder, a favour never practised by any Com<g ref="char:EOLhyphen"/>mander
+<pb n="8" facs="tcp:204853:6"/>in chief of that Party, where they had Power and V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctory.</p>
+            <p>But still his Ambition, and eagerly prosecuted U<g ref="char:EOLhyphen"/>surpation, a crime not sufferable by a Prince (you'l say) reclaims against all pardon and forgivenesse, and that it stands not with his honour and safety to grant it. 'Tis true, but in his behalf it may be al<g ref="char:EOLhyphen"/>ledged, that he never admitted or entertained such treasonable or presumptuous thoughts, till such time as the inveterate mischief of Anarchy had infected him, by the conceit of his own worth, that he was as fit and capable to govern as the best of them; And when once <hi>Oliver</hi> had beaten the track, he that was as deeply rooted in the affections of the Army, might easily be led to undertake the same Grandeur; and this done in a time too, (from the beginning of his projected Supremacy, to the end of it) when the Right of His Majesty was <hi>Conclamatum,</hi> and as was thought by them ut<g ref="char:EOLhyphen"/>terly vacated; His Authority here being as invinci<g ref="char:EOLhyphen"/>ble as his Person.</p>
+            <p>No doubt before the final conclusion of his ima<g ref="char:EOLhyphen"/>ginary greatnesse, he would have come over and complyed; but he found the businesse was done elsewhere before him, and then his closure would be but ridiculous, which the greatnesse of his spi<g ref="char:EOLhyphen"/>rit could not brook, having never thitherto learn<g ref="char:EOLhyphen"/>ed obedience to the King.</p>
+            <p>To conclude, <hi>Henry</hi> the seventh, Royal Pro<g ref="char:EOLhyphen"/>genitor of His Sacred Majesty, pardoned two persons, <hi>Lawrence Simnet,</hi> and <hi>Perkins Worbeck,</hi> who presumed (the King then <hi>in Regno</hi>) to to usurp the Name, Stile, and Title of King of <hi>England,</hi> and kept the first about His Per<g ref="char:EOLhyphen"/>son;
+<pb n="9" facs="tcp:204853:6"/>The other, after many relapses into his fond vain-glorious Opinion, was Executed. There is no fear of this in this Gentleman; And therefore to the Kings mercy we leave him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
